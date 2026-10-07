@@ -81,7 +81,7 @@ export const FlyerFront: React.FC<FlyerFrontProps> = ({
           <img
             src={customLogoUrl || solarQubeLogo}
             alt="SolarQube Energy Logo"
-            className="h-16 sm:h-20 w-auto object-contain"
+            className="h-14 sm:h-18 w-auto object-contain"
           />
         </div>
         <div className="text-right">
