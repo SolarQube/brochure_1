@@ -77,7 +77,7 @@ export const FlyerBack: React.FC<FlyerBackProps> = ({
         <img
             src={customLogoUrl || solarQubeLogo}
             alt="SolarQube Energy Logo"
-            className="h-20 sm:h-24 w-auto object-contain"
+            className="h-16 sm:h-20 w-auto object-contain"
           />
         <div className="text-right">
           <span className="text-[10px] font-bold tracking-[0.2em] uppercase text-cyan-700">
