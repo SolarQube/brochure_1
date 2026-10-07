@@ -1,0 +1,6 @@
+{
+  "name": "SolarQube - A4 Promotional Flyer",
+  "description": "Premium, print-ready A4 promotional flyer for SolarQube, a solar energy company in Tamil Nadu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
